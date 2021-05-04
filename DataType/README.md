@@ -2,6 +2,7 @@
 ---
 ## 1. Java Data Type
 기본형과 참조형이 있다.
+
 기본형(Primitive Type)
 1. 정수 타입 : byte, char, short, int, long
 2. 실수 타입 : float, double
