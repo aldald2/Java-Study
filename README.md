@@ -2,4 +2,4 @@
 ---
 
 ## 목차
-- [1. DataType](#1.DataType)
+- [1. DataType](#DataType)
