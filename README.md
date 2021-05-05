@@ -2,4 +2,5 @@
 ---
 
 ## 목차
-- [1. DataType](https://github.com/aldald2/Java-Study/tree/study/DataType)
+- [1. DataType](https://github.com/aldald2/Java-Study/tree/study/1.DataType)
+- [2. Variable](https://github.com/aldald2/Java-Study/tree/study/2.Variable)
